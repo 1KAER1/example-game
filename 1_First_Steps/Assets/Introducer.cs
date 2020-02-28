@@ -8,6 +8,7 @@ public class Introducer : MonoBehaviour
     void Start()
     {
         print("The game begins");
+        
     }
 
     // Update is called once per frame
